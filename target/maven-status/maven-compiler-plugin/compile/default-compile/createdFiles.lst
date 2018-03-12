@@ -1,0 +1,5 @@
+com\devweb\devweb\repositories\CategoryRepository.class
+com\devweb\devweb\controllers\IndexController.class
+com\devweb\devweb\bootstrap\RecipeBootStrap.class
+com\devweb\devweb\repositories\UnitMeasureRepository.class
+com\devweb\devweb\services\RecipeServiceImpl.class
